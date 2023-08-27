@@ -1,4 +1,4 @@
-## Olá! Eu sou a Francielle Lustosa 🖐️
+## Olá! Eu sou a Francielle Lustosa 😁
 
 Bem-vindo(a) ao meu mundo de tecnologia e design, onde a criatividade se encontra com a inovação.
 
