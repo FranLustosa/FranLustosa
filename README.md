@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu mundo de tecnologia e design, onde a criatividade se encontr
 
 ## Tecnologias que utilizo no meu dia
 
-Estas são algumas das ferramentas que utilizo diariamente para criar projetos inovadores e dar vida às minhas ideias criativas:
+Estas são algumas das ferramentas que utilizo diariamente para criar projetos inovadores e dar vida às minhas ideias criativas
 
 
 <div style="display: inline_block">
