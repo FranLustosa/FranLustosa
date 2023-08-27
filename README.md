@@ -10,16 +10,17 @@ Bem-vindo(a) ao meu mundo de tecnologia e design, onde a criatividade se encontr
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=FranLustosa&show_icons=true&theme=dracula&count_private=true)
 
-## Tecnologias que utilizo no meu dia
+## Tecnologias
 
-Estas são algumas das ferramentas que utilizo diariamente para criar projetos inovadores e dar vida às minhas ideias criativas
+Estas são algumas das ferramentas que utilizo diariamente para criar projetos inovadores e dar vida às minhas ideias criativas e projetos acadêmicos.
 
 
 <div style="display: inline_block">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+   <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
 ## Metodologias
