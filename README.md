@@ -12,7 +12,7 @@ Bem-vindo(a) ao meu mundo de tecnologia e design, onde a criatividade se encontr
 
 ## Tecnologias
 
-Estas são algumas das ferramentas que utilizo diariamente para criar projetos inovadores e dar vida às minhas ideias criativas e projetos acadêmicos.
+Estas são algumas das tecnologias que integram meu dia a dia, permitindo-me dar vida a projetos inovadores, explorar minha criatividade e entregar trabalhos de qualidade.
 
 
 <div style="display: inline_block">
