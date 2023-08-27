@@ -1,11 +1,11 @@
 ## Olá! Eu sou a Francielle Lustosa 🖐️
 
-Bem-vindo ao meu mundo de tecnologia e design, onde a criatividade se encontra com a inovação.
+Bem-vindo(a) ao meu mundo de tecnologia e design, onde a criatividade se encontra com a inovação.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielle-lustosa-023683208/)
 [![Webflow](https://img.shields.io/badge/Webflow-39E09B?style=for-the-badge&logo=webflow&logoColor=white)](https://www.webflow.com/seu-webflow)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franciellelimalustosa@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciellelimalustosa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/franciellelustosa)
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=FranLustosa&show_icons=true&theme=dracula&count_private=true)
