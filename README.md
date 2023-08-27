@@ -30,7 +30,7 @@ Estas são as metodologias que utilizo para guiar e aprimorar o processo de dese
   <img align="center" alt="Design Sprint" src="https://img.shields.io/badge/Design%20Sprint-FF5733?style=for-the-badge" />
 </div><br/
 
-**Meu propósito é inspirar e capacitar pessoas** por meio da tecnologia. Acredito que a programação e o design têm o poder de criar soluções inovadoras e impactar positivamente a vida das pessoas. Sou um apaixonado por tecnologia, um eterno aprendiz e estou comprometido em compartilhar conhecimento e tornar o mundo digital mais acessível para todos.
+**Meu propósito é inspirar e capacitar pessoas** por meio da tecnologia. Acredito que a programação e o design têm o poder de criar soluções inovadoras e impactar positivamente a vida das pessoas, tornando o mundo digital mais acessível para todos.
 
 
 
